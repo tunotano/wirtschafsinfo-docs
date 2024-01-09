@@ -2,11 +2,11 @@
 
 Für eine Losgrößenplanung bei geschlossener Produktion sei folgende Situation gegeben:
 
-Verbrauchsrate = V = 500 Stück pro Monat, 
-Produktionsrate = P = 2500 Stück pro Monat, 
-unmittelbare Herstellungskosten = bH = 5 € pro Stück, 
-Rüstkosten = Cr = 6 € pro Rüstvorgang, 
-Lagerkostensatz = Cl = 0,5 € pro Stück und Monat, 
+Verbrauchsrate = V = 500 Stück pro Monat,  
+Produktionsrate = P = 2500 Stück pro Monat,  
+unmittelbare Herstellungskosten = bH = 5 € pro Stück,  
+Rüstkosten = Cr = 6 € pro Rüstvorgang,  
+Lagerkostensatz = Cl = 0,5 € pro Stück und Monat,  
 $\large{y_{opt}}$ = 100.  
 
 Ermitteln Sie die optimale Rüsthäufigkeit pro Monat (= 30 Tage) und pro Jahr (= 360 Tage)!
