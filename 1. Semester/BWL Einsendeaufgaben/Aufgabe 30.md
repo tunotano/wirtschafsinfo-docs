@@ -6,10 +6,10 @@ Vervollständigen Sie bitte die nachstehende Tabelle (Kapitalfreisetzungseffekt
 
 ![](_attachments/Pasted%20image%2020230617165921.png)
 
-a) Summe der Abschreibungen für dieses Jahr:  $\large{4 + 4 + 4 = 12}$
-b) Aufgelaufende liquide Mittel: Kapitalfreisetzung aus dem Vorjahr (12) + Jahresabschreibung (12): $\large{12 + 12 = 24}$
-c) Ersatzinvestitionen: Maschine 1 hat ihre Lebensdauer erreicht, Ersatzinvestition einer Maschine notwendig, Kosten: $\large{12}$
-d) Kapitalfreisetzung: Liquide Mittel - Ersatzinvestitionen: $\large{24 - 12 = 12}$
+a) Summe der Abschreibungen für dieses Jahr:  $\large{4 + 4 + 4 = 12}$  
+b) Aufgelaufende liquide Mittel: Kapitalfreisetzung aus dem Vorjahr (12) + Jahresabschreibung (12): $\large{12 + 12 = 24}$  
+c) Ersatzinvestitionen: Maschine 1 hat ihre Lebensdauer erreicht, Ersatzinvestition einer Maschine notwendig, Kosten: $\large{12}$  
+d) Kapitalfreisetzung: Liquide Mittel - Ersatzinvestitionen: $\large{24 - 12 = 12}$  
 
 
 
