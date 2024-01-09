@@ -12,7 +12,7 @@ $\large{y_{opt}}$ = 100.
 Ermitteln Sie die optimale Rüsthäufigkeit pro Monat (= 30 Tage) und pro Jahr (= 360 Tage)!
 
 Optimale Rüsthäufigkeit pro Monat:  
-$$\large{n^{opt}_{\text{Monat}}}$$ = Antwort.  
+$n^{opt}_{\text{Monat}}$ = Antwort.  
 
 Optimale Rüsthäufigkeit pro Jahr:  
 $\large{n^{opt}_{\text{Jahr}}}$  = Antwort.  
