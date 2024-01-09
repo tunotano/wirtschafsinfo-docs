@@ -8,8 +8,8 @@ Ermitteln Sie die Deckungsspannen der Produkte 1 und 2!
 Deckungsspanne Produkt 1: DS1 = Antwort.
 Deckungsspanne Produkt 2: DS2 = Antwort.
 
-$\large{DS_{1} = \text{Absatzpreis}_{P1} - (PK_{A1} * p_{A} + PK_{B1} * p_{B}) = 131 - (10 * 7 + 5 * 11) = 6}$
-$\large{DS_{1} = \text{Absatzpreis}_{P2} - (PK_{A2} * p_{A} + PK_{B2} * p_{B}) = 131 - (4 * 7 + 9 * 11) = 4}$
+$\large{DS_{1} = Absatzpreis_{P1} - (PK_{A1} * p_{A} + PK_{B1} * p_{B}) = 131 - (10 * 7 + 5 * 11) = 6}$  
+$\large{DS_{1} = Absatzpreis_{P2} - (PK_{A2} * p_{A} + PK_{B2} * p_{B}) = 131 - (4 * 7 + 9 * 11) = 4}$
 
 
 
