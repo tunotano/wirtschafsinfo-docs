@@ -28,7 +28,7 @@ Gewinn = $\large{GDS - K_{fix} = 8450 - 6000 = 2450}$
 
 Restliche Zahlen zur Übung:
 
-Deckungsspannen:
+Deckungsspannen:  
 $\large{DS_{1} = 120 - (6 * 8 + 4 * 11) =  28}$  
 $\large{DS_{2} = 150 - (3 * 8 + 8 * 11) =  38}$  
 $\Rightarrow$ Beide Deckungsspannen sind vorteilhaft
