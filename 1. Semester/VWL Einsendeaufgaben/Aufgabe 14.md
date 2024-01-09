@@ -61,7 +61,7 @@ $\large{{{x^D(12)} \over {x^D(8)}} = {2 \over 4} = 0.5 = 50\\%}$
 
 $\Rightarrow$ Wahr
 
-e)
+e)  
 Die angebotene Menge steigt um 50%
 
 Angebotene Menge im Gleichgewicht:  
