@@ -17,4 +17,4 @@ Stückkostenminimale Intensität: $\large{x_{opt}}$ = 1. Ableitung von $\large{k
 $\large{k'(x) = 6x - 30 = 0 \leftrightarrow 6x = 30 \leftrightarrow x = 5}$
 
 Minimale Stückkosten:
-$\large{k(5) = 3*5^{2} – 30*5 + 300 = 225}$
+$\large{k(5) = 3 * 5^{2} – 30*5 + 300 = 225}$
