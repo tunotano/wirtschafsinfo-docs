@@ -8,7 +8,7 @@ Bestimmen Sie den sich auf den tatsächlichen Kreditbetrag vor Skonto beziehende
 
 (Eingabe in Prozent und mit zwei Nachkommastellen!)
 
-$\large{i_{T} = {(1 + {\text{Skonto in \%} \over \text{Restkredit in \%}})}^{\text{Jahrestage} \over \text{Zahlungsziel} - \text{Skontozeitraum}}} - 1$
+$\large{i_{T} = {(1 + {\text{Skonto in \%} \over \text{Restkredit in \%}})}^{\text{Jahrestage} \over \text{Zahlungsziel} - \text{Skontozeitraum}}} - 1$  
 $\large{i_{T} = {(1 + {2\% \over 98\%})}^{\text{365} \over \text{14} - \text{3}} -1 = 0.9549 = 95.49\%}$
 
 

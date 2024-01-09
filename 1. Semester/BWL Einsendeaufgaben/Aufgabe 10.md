@@ -2,11 +2,11 @@
 
 Für eine Losgrößenplanung bei **geschlossener** Produktion sei folgende Situation gegeben:
 
-Verbrauchsrate = V = 360 Stück pro Monat, 
-Produktionsrate = P = 600 Stück pro Monat, 
-unmittelbare Herstellungskosten = bH = 10 € pro Stück, 
-Rüstkosten = Cr = 4 € pro Rüstvorgang, 
-Lagerkostensatz = Cl = 0,5 € pro Stück und Monat.
+Verbrauchsrate = V = 360 Stück pro Monat,   
+Produktionsrate = P = 600 Stück pro Monat,   
+unmittelbare Herstellungskosten = bH = 10 € pro Stück,   
+Rüstkosten = Cr = 4 € pro Rüstvorgang,   
+Lagerkostensatz = Cl = 0,5 € pro Stück und Monat.  
 
 Ermitteln Sie die optimale Losgröße!
 

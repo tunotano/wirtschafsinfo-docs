@@ -9,8 +9,8 @@ Maximal zahlbarer Kaufpreis: p* = ?.
 
 (Eingabe ohne Tausendertrennzeichen und mit zwei Nachkommastellen!)
 
-Der Ertragswert berechnet sich aus der Summe der diskontierten Zahlungsströme für die jeweiligen Zeitperioden:
-$\large{E_{K} = \sum\limits_{t = 1}^{n} g_{Kt} * q^{-t}}$
+Der Ertragswert berechnet sich aus der Summe der diskontierten Zahlungsströme für die jeweiligen Zeitperioden:  
+$\large{E_{K} = \sum\limits_{t = 1}^{n} g_{Kt} * q^{-t}}$  
 $\large{E_{K} = 10000 * 1.1^{-1} + 10000 * 1.1^{-2} + 10000 * 1.1^{-3} = 24868,52}$
 
 

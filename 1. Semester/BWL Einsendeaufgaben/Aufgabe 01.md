@@ -9,8 +9,7 @@ Berechnen Sie die Annuität der Sachinvestition!
 Annuität: a = ?.  
 (Eingabe mit zwei Nachkommastellen!)
 
-Annuität $\large{a = C * {q^{t}*i \over q^t-1}}$
-$\large{= 50 * {{1.1^{2}*0.1} \over {1.1^{2}-1}} = 28.81}$
+Annuität $\large{a = C * {q^{t}*i \over q^t-1}}$  $\large{= 50 * {{1.1^{2}*0.1} \over {1.1^{2}-1}} = 28.81}$
 
 VOFI
 
@@ -25,10 +24,12 @@ VOFI
 | Schuld     | -150  | -83.81 | 0       |
 | Guthaben   |       |        |  0      |
 
-Periode 1:
-Liquide Mittel: 110 - 28.81 - 15 = 66.19
-Uebrige Schuld: 150 - 66.19 = 83.81
+Periode 1: 
 
-Periode 2:
-Liquide Mittel: 121 - 28.81 - 8.38 = 83.81
-Uebrige Schuld: 83.81 - 83.81 = 0
+Liquide Mittel: 110 - 28.81 - 15 = 66.19
+Uebrige Schuld: 150 - 66.19 = 83.81  
+
+Periode 2:  
+
+Liquide Mittel: 121 - 28.81 - 8.38 = 83.81  
+Uebrige Schuld: 83.81 - 83.81 = 0  
