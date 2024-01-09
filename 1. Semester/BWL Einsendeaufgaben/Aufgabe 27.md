@@ -6,9 +6,9 @@ Berechnen Sie den Endwert der Sachinvestition unter der Annahme, daß keine eige
 
 Zusätzlicher Endwert: ΔEW = Antwort.
 
-Endwert Berechnung über Kapitalwert: 
+Endwert Berechnung über Kapitalwert:   
 $\large{C = -50 + 75 * 1.1^{-1} = 18.18}$
 
-Endwert $\large{\Delta EW}$:
+Endwert $\large{\Delta EW}$:  
 $\large{\Delta EW = C * q^{n} = 18.18 * 1.1^{1} = 20.00}$
 
