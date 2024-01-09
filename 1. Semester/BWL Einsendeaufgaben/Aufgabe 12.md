@@ -17,4 +17,5 @@ Stückkosten der dicken Blechsorte: $\large{k_\text{dick}}$ = Antwort.
 (Eingabe mit einer Nachkommastelle!)
 
 $\large{k_\text{normal} = {228000 \over 0,7 * 10000 + 15000 * 1 + 5000 * 1,3} = 8,0}$
+
 $\large{k_\text{dick} = k_\text{normal} * 1,3 = 10,4}$
