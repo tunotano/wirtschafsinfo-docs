@@ -16,11 +16,11 @@ Emissionsrendite: r = Antwort %.
 
 (Eingabe in Prozent und mit zwei Nachkommastellen!)
 
-$\large{C = - 50 + 100 * (1 + r)^{-n} = 0}$
-$\large{\leftrightarrow (1 + r)^{-n} = {50 \over 100}}$
-$\large{\leftrightarrow {1 \over (1 + r)^{n}} = {50 \over 100}}$
-$\large{\leftrightarrow {(1 + r)^{n}} = {100 \over 50}}$
-$\large{\leftrightarrow {(1 + r)^{n}} = 2}$ | $\large{\sqrt[n]{}}$
-$\large{\leftrightarrow {1 + r = \sqrt[n]{2}}}$ | $\large{-1}$ 
-$\large{\leftrightarrow {r = \sqrt[n]{2} - 1}}$ 
-$\large{\leftrightarrow {r = 0.0718 = 7.18\%}}$ 
+$\large{C = - 50 + 100 * (1 + r)^{-n} = 0}$  
+$\large{\leftrightarrow (1 + r)^{-n} = {50 \over 100}}$  
+$\large{\leftrightarrow {1 \over (1 + r)^{n}} = {50 \over 100}}$  
+$\large{\leftrightarrow {(1 + r)^{n}} = {100 \over 50}}$  
+$\large{\leftrightarrow {(1 + r)^{n}} = 2}$ | $\large{\sqrt[n]{}}$  
+$\large{\leftrightarrow {1 + r = \sqrt[n]{2}}}$ | $\large{-1}$   
+$\large{\leftrightarrow {r = \sqrt[n]{2} - 1}}$   
+$\large{\leftrightarrow {r = 0.0718 = 7.18\\%}}$   
