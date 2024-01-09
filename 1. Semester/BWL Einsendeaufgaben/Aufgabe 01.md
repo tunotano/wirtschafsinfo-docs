@@ -18,15 +18,15 @@ VOFI
 | g(t)       | -150  | 110    | 121    |
 | Entnahme   |       | -28.81 | -28.81 |
 | Kredit     | 150   |        |        |
-| Tilgung    |       | 66.19  | 83.81  | 
+| Tilgung    |       | 66.19  | 83.81  |
 | Anlage     |       |        |        |
 | Zinsen 10% |       | -15    | -8.38  |
-| Schuld     | -150  | -83.81 | 0       |
-| Guthaben   |       |        |  0      |
+| Schuld     | -150  | -83.81 | 0      |
+| Guthaben   |       |        | 0      |
 
 Periode 1: 
 
-Liquide Mittel: 110 - 28.81 - 15 = 66.19
+Liquide Mittel: 110 - 28.81 - 15 = 66.19  
 Uebrige Schuld: 150 - 66.19 = 83.81  
 
 Periode 2:  
