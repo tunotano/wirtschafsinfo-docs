@@ -9,10 +9,10 @@ Das max. Einkommen in Periode 2 ist das Einkommen aus $t_1$, welches verzinst we
 $c_2^{max} = y_1 * (i + 1) + y_2$
 
 a) Falsch. 
-Die Formel zieht das Einkommen der 2. Periode gar nicht in Betracht.
+Die Formel zieht das Einkommen der 2. Periode gar nicht in Betracht.  
 Die Formel wäre ungefähr:
 
-$c_2 = y_2 - (c_1 - y_2)*(i+1)$
+$c_2 = y_2 - (c_1 - y_2)*(i+1)$  
 (Einkommen aus der 2. Periode - verzinster Kredit in Höhe des Restkonsums, den man sich von dem Einkommen der 2. Periode "geliehen" hat)
 
 b) Falsch. 
@@ -20,7 +20,7 @@ Das Einkommen kann nicht in der 1. Periode vollständig benutzt werden ohne daf�
 
 c) Wahr
 
-d) Falsch. 
+d) Falsch.   
 Dadurch, dass das Einkommen aus Periode $t_1$ verzinst werden kann, kann der Konsum in $t_2$ größer sein als in $t_1$. Um auf das Einkommen aus $t_2$ in $t_1$ zuzugreifen, muss ein Kredit aufgenommen werden, der den max. Konsum verringert. 
 
 e) Wahr, siehe oben
