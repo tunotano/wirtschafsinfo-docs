@@ -15,7 +15,7 @@ Optimale Rüsthäufigkeit pro Monat:
 $n^{opt}_{\text{Monat}}$ = Antwort.  
 
 Optimale Rüsthäufigkeit pro Jahr:  
-$\large{n^{opt}_{\text{Jahr}}}$  = Antwort.  
+$n^{opt}_{\text{Jahr}}$  = Antwort.  
 
 $\large{n^{opt}_{\text{Monat}} = {R_{Monat} \over y_{opt}} = {500 \over 100} = 5}$
 
