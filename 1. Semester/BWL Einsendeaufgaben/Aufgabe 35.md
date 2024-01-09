@@ -6,10 +6,10 @@ Deckungsspannen: DS1 = 18, DS2 = 8 GE/ME.
 
 Ermitteln Sie die relativen Deckungsspannen für den Fall, dass von Rohstoff A maximal 240 FE zur Verfügung stehen!
 
-Relative DS1 = Antwort.
+Relative DS1 = Antwort.  
 Relative DS2 = Antwort.  
 
 (Eingabe mit einer Nachkommastelle!)
 
-Relative $\large{DS_{1} = {DS_{1} \over PK_{1A}} = {18 \over 10} = 1.8}$
+Relative $\large{DS_{1} = {DS_{1} \over PK_{1A}} = {18 \over 10} = 1.8}$  
 Relative $\large{DS_{2} = {DS_{2} \over PK_{2A}} = {8 \over 4} = 2.0}$
