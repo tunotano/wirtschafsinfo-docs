@@ -7,10 +7,10 @@ $\large{k(x) = 0.075x^{2} – 7.5x + 750}$ mit $\large{0 ≤ x ≤ 100}$, $\lar
 Für die Ausbringungsmenge M gilt:  
 $\large{M = x * t}$
 
-Ermitteln Sie die stückkostenminimale Intensität $\large{x_{opt}}$! 
+Ermitteln Sie die stückkostenminimale Intensität $\large{x_{opt}}$!   
 Wie hoch sind die minimalen Stückkosten $\large{k_{min}(x_{opt})}$?
 
-Stückkostenminimale Intensität: $\large{x_{opt}}$ = Antwort.
+Stückkostenminimale Intensität: $\large{x_{opt}}$ = Antwort.  
 Minimale Stückkosten: $\large{k_{min}(x_{opt})}$ = Antwort.  
 
 (Eingabe mit einer Nachkommastelle!)
